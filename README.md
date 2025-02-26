@@ -11,8 +11,7 @@ Skills: Data Structures & Algorithms 📚 | Software Development 🛠 | Digital 
 
 
 🌱 Currently Learning
-Advanced Algorithms
-Computer Organization
+Advanced Algorithms | Computer Organization
 
 
 📫 Connect With Me
