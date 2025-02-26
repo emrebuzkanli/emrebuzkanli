@@ -9,9 +9,9 @@ Skills: Data Structures & Algorithms 📚 | Software Development 🛠 | Digital 
 
 
 🌱 Currently Learning
-Advanced Algorithms & Competitive Programming
-System Design & Low-Level Programming
-Improving Software Development Practices
+Advanced Algorithms
+Computer Organization
+
 
 📫 Connect With Me
 💼 [LinkedIn](www.linkedin.com/in/ahmet-emre-buzkanlı-65a21a34b)
