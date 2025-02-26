@@ -12,5 +12,5 @@ System Design & Low-Level Programming
 Improving Software Development Practices
 
 📫 Connect With Me
-💼 [LinkedIn] (www.linkedin.com/in/ahmet-emre-buzkanlı-65a21a34b)
+💼 [LinkedIn](www.linkedin.com/in/ahmet-emre-buzkanlı-65a21a34b)
 ✉️ Email: a.emrebuzkanli5@gmail.com
